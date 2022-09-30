@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MakeCubaseLongWav": {
+      "commandName": "Project",
+      "commandLineArgs": "\"H:\\1encoding\\brave little toaster\\DVD\\DVD-24fps.w64\""
+    }
+  }
+}
